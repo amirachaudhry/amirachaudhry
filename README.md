@@ -5,6 +5,7 @@ Hi 👋 My name is Amira
 ----------------
 
 * 🌍  I'm based in Edinburgh
+* 💻  I am currently doing a BSc Computer Systems degree at Heriot-Watt University
 * 🧠  I'm learning React!
 
 ### Skills
