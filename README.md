@@ -1,4 +1,4 @@
-Hi, My name is Amira 
+Hi, My name is Amira.
 ======================
 
 2nd Year Student
@@ -6,7 +6,7 @@ Hi, My name is Amira
 
 * 💻  I am currently doing a BSc Computer Systems degree at Heriot-Watt University.
 * 🌍  I'm based in Edinburgh.
-* 🧠  I'm currently learning React!
+* 🧠  I'm currently working with HTML, JavaScript and CSS.
 
 ### Skills
 
