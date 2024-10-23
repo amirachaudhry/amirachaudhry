@@ -6,7 +6,7 @@ Hi, My name is Amira.
 
 * 💻  I am currently doing a BSc Computer Systems degree at Heriot-Watt University.
 * 🌍  I'm based in Edinburgh.
-* 🧠  I'm currently working with APIs and JavaScript.
+* 🧠  I'm currently working with Java and PDDL
 
 ### Skills
 
