@@ -4,9 +4,9 @@ Hi, My name is Amira.
 4rd Year Student
 ----------------
 
-* 💻  I am currently doing a BSc Computer Systems degree at Heriot-Watt University.
-* 🌍  I'm based in Edinburgh.
-* 🧠  I'm currently working with React.js and Figma.
+* 💻 I am currently doing a BSc Computer Systems degree at Heriot-Watt University.
+* 💼  Previously interned as a UI/UX Developer within the Summer of 2025.
+* 👩🏻‍💻  I'm currently working with React.js and Figma.
 
 ### Skills
 
