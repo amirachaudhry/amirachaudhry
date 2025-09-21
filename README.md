@@ -1,7 +1,7 @@
 Hi, My name is Amira.
 ======================
 
-4rd Year Student
+Final Year Student
 ----------------
 
 * 💻 I am currently doing a BSc Computer Systems degree at Heriot-Watt University.
