@@ -1,8 +1,11 @@
-Hi, My name is Amira.
+Hello, my name is Amira.
 ======================
 
 Final Year Student
 ----------------
+
+I am currently developing a diary interface using React for my Honours Project. This diary will allow young people to express their views and perceptions on Artificial Intelligence. 
+
 ### Skills
 
 
