@@ -4,7 +4,7 @@ Hello, my name is Amira.
 Final Year Student
 ----------------
 
-I am currently developing a diary interface using React for my Honours Project. This diary will allow young people to express their views and perceptions of Artificial Intelligence. 
+I have just finished developing a diary interface using React for my Honours Project. This diary allows young people to express their views and perceptions of Artificial Intelligence. 
 
 ### Skills
 
