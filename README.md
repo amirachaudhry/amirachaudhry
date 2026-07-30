@@ -12,7 +12,7 @@
 
 Recent Computer Systems graduate with experience in web development, UI/UX design and AI applications.
 
-🔭 &nbsp;I'm currently working on **AI Fashion Assistant and Habit tracker**  
+🔭 &nbsp;I'm currently working on **AI Fashion Assistant**  
 🌱 &nbsp;I'm currently learning **Node.js and MongoDB**  
 💬 &nbsp;Ask me about **UI/UX design and Figma**  
 😄 &nbsp;Pronouns: **she/her**  
